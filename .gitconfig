@@ -78,3 +78,6 @@
 
 [push]
 #	default = simple
+[user]
+	name = Mike Place
+	email = mp@xmission.com
