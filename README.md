@@ -1,4 +1,5 @@
-# Mathias’s dotfiles
+# Mike Place’s dotfiles
+# forked from mathiasbynens/dotfiles
 
 ## Installation
 
