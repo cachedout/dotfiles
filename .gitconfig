@@ -80,8 +80,7 @@
 	default = simple
 [credential]
 	helper = cache
-=======
 #	default = simple
 [user]
 	name = Mike Place
-	email = mp@xmission.com
+	email = mp@saltstack.com
